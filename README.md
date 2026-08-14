@@ -1,7 +1,7 @@
 [ChadiBlal-profile-README.md](https://github.com/user-attachments/files/31081635/ChadiBlal-profile-README.md)
 # Hi, I'm Chadi Blal
 
-I am a cybersecurity student at the **École Supérieure de Technologie de Béni Mellal**, pursuing a **DUT in Information Security and Networks**. I enjoy understanding how systems work—from code and network protocols to Linux infrastructure, cloud platforms, data, and artificial intelligence and applying that understanding to build and secure real systems.
+I am a cybersecurity student at the **École Supérieure de Technologie de Béni Mellal**, pursuing a **DUT in Information Security and Networks**. I enjoy understanding how systems work from code and network protocols to Linux infrastructure, cloud platforms, data, and artificial intelligence and applying that understanding to build and secure real systems.
 
 My main interests are **defensive cybersecurity, security engineering, network security, malware analysis, detection, monitoring, hardening, and security architecture**. I also enjoy cybersecurity competitions because they help me maintain practical offensive-security knowledge while developing a stronger blue-team perspective.
 
