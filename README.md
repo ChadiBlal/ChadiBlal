@@ -1,7 +1,7 @@
 [ChadiBlal-profile-README.md](https://github.com/user-attachments/files/31081635/ChadiBlal-profile-README.md)
 # Hi, I'm Chadi Blal
 
-I am a cybersecurity student at the **École Supérieure de Technologie de Béni Mellal**, pursuing a **DUT in Information Security and Networks**. I enjoy understanding how systems work—from code and network protocols to Linux infrastructure, cloud platforms, data, and artificial intelligence—and applying that understanding to build and secure real systems.
+I am a cybersecurity student at the **École Supérieure de Technologie de Béni Mellal**, pursuing a **DUT in Information Security and Networks**. I enjoy understanding how systems work—from code and network protocols to Linux infrastructure, cloud platforms, data, and artificial intelligence and applying that understanding to build and secure real systems.
 
 My main interests are **defensive cybersecurity, security engineering, network security, malware analysis, detection, monitoring, hardening, and security architecture**. I also enjoy cybersecurity competitions because they help me maintain practical offensive-security knowledge while developing a stronger blue-team perspective.
 
@@ -31,7 +31,7 @@ A final-year project focused on malware behavior, worm propagation concepts, net
 
 - Ranked in the **Top 1% globally on TryHackMe**.
 - Member of **Team C0RE X**, participating in cybersecurity competitions and CTF challenges.
-- Reached the national finals of **MACC 2026**, with C0RE X ranked first at Université Sultan Moulay Slimane and 81st nationally among 1,156 teams.
+- Reached the national finals of **MACC 2026**, with C0RE X ranked first at Université Sultan Moulay Slimane and 18st nationally among 1,156 teams.
 - Practiced investigations involving Zeek, Splunk, Windows and domain environments, PowerShell logs, and security telemetry.
 - Completed an OCP internship involving network infrastructure support, system and data security practices, and technical troubleshooting.
 
@@ -57,7 +57,7 @@ Security and malware-related projects published here are intended strictly for *
 ## Connect With Me
 
 - **GitHub:** [@ChadiBlal](https://github.com/ChadiBlal)
-- **LinkedIn:** Replace this text with your LinkedIn profile URL
+- **LinkedIn:** www.linkedin.com/in/chadi-blal-01817236a
 - **Email:** [chadiblal111@gmail.com](mailto:chadiblal111@gmail.com)
 
 I am open to learning, collaborating on meaningful technical projects, and connecting with people interested in cybersecurity, systems, data, and AI.
